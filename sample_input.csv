@@ -1,0 +1,3 @@
+Campaign status,Campaign ID,Campaign name,Spend in account currency,Impressions,Pin clicks,CPM,CPC,Date
+ACTIVE,C123456789012,Sample A,80.0,50000,1200,1.6,0.06666666666666667,2025-01-10
+PAUSED,C987654321098,Sample B,40.0,20000,150,2.0,0.26666666666666666,2025-02-05
