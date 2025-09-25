@@ -18,7 +18,7 @@ It includes both a command-line script and a web interface.
 git clone https://github.com/armaanatkar-cmyk/pinterest_ai.git
 cd pinterest_ai
 
-2. After allat install this shi
+2. After allat install this 
 
 pip install -r requirements.txt
 
